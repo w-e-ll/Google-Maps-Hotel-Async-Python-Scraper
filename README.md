@@ -20,9 +20,9 @@ to make a Google search request. Collects data and stores it to Postgres.
 
 ## Configure PostgreSQL:
 
-* sudo apt-get install postgresql libpq-dev postgresql-client postgresql-client-common
-* sudo su postgres
-* psql
+- sudo apt-get install postgresql libpq-dev postgresql-client postgresql-client-common
+- sudo su postgres
+- psql
 * create database 'your DB name here';
 * \c 'your DB name here'
 * CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
