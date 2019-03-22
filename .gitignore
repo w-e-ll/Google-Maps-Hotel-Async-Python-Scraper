@@ -105,5 +105,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-db/
 app/gitstars/static/*.txt
