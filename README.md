@@ -51,4 +51,4 @@ to make a Google search request. Collects data and stores it to Postgres.
 - run: python3 select.py --name "Leipzig Marriott Hotel"  (enter "{}" - {name of a hotel})
 
 
-made by: https://w-e-ll.com/cv/
+made by: https://w-e-ll.com
