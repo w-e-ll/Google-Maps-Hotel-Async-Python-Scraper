@@ -7,7 +7,7 @@ attrs==18.2.0
 chardet==3.0.4
 idna==2.8
 idna-ssl==1.1.0
-lxml==4.2.5
+lxml==4.6.5
 multidict==4.5.2
 PySocks==1.6.8
 selenium==3.141.0
